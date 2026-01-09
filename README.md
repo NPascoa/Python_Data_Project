@@ -232,7 +232,7 @@ plt.show()
 
 ```
 
-![Optimal Skills for DAs in the US](3_Project\images\Optimal_Skills_DA_US.png)
+![Optimal Skills for DAs in the US](3_Project/images/Optimal_Skills_DA_US.png)
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.*
 
 ### Insights

@@ -3,7 +3,7 @@
 This analysis will be focussed on the Data job market in the US.
 It will help get a sense of what technical skills are more in demand and offer higher pay.
 
-The data is sourced from Luke Barousse's Python Course which provides a great amount of information regarding Data Job Postings all around the world. 
+The data is sourced from Luke Barousse's Hugging Face profile ([link](https://huggingface.co/datasets/lukebarousse/data_jobs)) which provides a great amount of information regarding Data Job Postings all around the world. 
 It includes the following columns:
 
 ```python
